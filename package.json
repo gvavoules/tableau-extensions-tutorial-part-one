@@ -1,0 +1,13 @@
+{
+  "name": "tableau-extension-tutorial",
+  "version": "1",
+  "description": "none",
+  "main": "index.js",
+  "repository": "https://github.com/gvavoules/tableau-extensions-tutorial-part-one",
+  "author": "<gvavoules@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
